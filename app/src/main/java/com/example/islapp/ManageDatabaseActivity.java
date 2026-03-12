@@ -44,7 +44,7 @@ import java.util.List;
 public class ManageDatabaseActivity extends AppCompatActivity {
 
     private ListView gestureListView;
-    private DatabaseHelper db;//oo
+    private DatabaseHelper db;//o
 
     private Uri tempVideoUri;
     private GestureItem selectedItemForUpdate;
