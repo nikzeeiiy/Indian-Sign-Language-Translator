@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172336764344",
+    "project_id": "islapp-6b0f7",
+    "storage_bucket": "islapp-6b0f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172336764344:android:434d7baa1218c5a69d6b4d",
+        "android_client_info": {
+          "package_name": "com.example.islapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKjssoenSIASWyAo8GL-vEFs2NHGiP4bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
